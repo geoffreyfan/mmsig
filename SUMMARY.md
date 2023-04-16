@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OpenMMLabContributorGuild](README.md)
+* [OpenMMLab 贡献者教程](README.md)
 
 ## 环境配置
 
