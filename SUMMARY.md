@@ -8,4 +8,4 @@
 
 ## 文档类贡献
 
-* [如何贡献文档类的PR](wen-dang-lei-gong-xian/ru-he-gong-xian-wen-dang-lei-de-pr.md)
+* [如何贡献文档类的PR1](wen-dang-lei-gong-xian/ru-he-gong-xian-wen-dang-lei-de-pr.md)
