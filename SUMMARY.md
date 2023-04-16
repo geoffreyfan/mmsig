@@ -5,7 +5,7 @@
 
 ## 环境配置 <a href="#00_env" id="00_env"></a>
 
-* [win10环境配置](01_env/win10.md)
+* [win10环境配置](./01_env/win10.md)
 
 
 ## 文档类贡献 <a href="#01_doc" id="01_doc"></a>
