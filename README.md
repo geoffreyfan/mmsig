@@ -4,3 +4,5 @@
 
 
 小伙伴们可以在[任务发布表](https://aicarrier.feishu.cn/sheets/shtcnE5FlKLcg4vMjMMoq4kFL1f)领取任务。
+
+* [文档类贡献指南](01doc/doc.md)
