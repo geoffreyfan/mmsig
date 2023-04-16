@@ -2,4 +2,4 @@
 
 ## vscode 环境配置
 
-## Miniconda python 虚拟环境
+## miniconda python 虚拟环境
