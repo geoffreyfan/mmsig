@@ -9,4 +9,4 @@
 
 ## 文档类贡献 <a href="#01doc" id="01doc"></a>
 
-* [文档类贡献指南](01doc/doc.md)
+* [文档类贡献指南](01doc/ru-he-gong-xian-wen-dang-lei-de-pr.md)
