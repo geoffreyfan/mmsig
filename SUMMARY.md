@@ -2,10 +2,14 @@
 
 * [OpenMMLab 贡献者教程](README.md)
 
-## 环境配置
+## 文档类贡献 <a href="#01_doc" id="01_doc"></a>
 
-* [Windows 环境配合](00_env/windows-huan-jing-pei-he.md)
+* [如何贡献文档类的PR1](01\_doc/doc.md)
 
-## 文档类贡献
+***
 
-* [如何贡献文档类的PR1](01_doc/ru-he-gong-xian-wen-dang-lei-de-pr.md)
+* [Page 1](one.md)
+
+## Group 1 <a href="#tesst" id="tesst"></a>
+
+* [Page 2](tesst/page-2.md)
