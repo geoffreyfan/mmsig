@@ -25,4 +25,6 @@
 
 ## 加入 MMSIG
 
-![8d8bb7bf824a2219c0a7a5e168e6c98d](https://user-images.githubusercontent.com/25839884/232354323-1755d48d-30bf-4a99-8e62-1869e903fff0.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25839884/232354323-1755d48d-30bf-4a99-8e62-1869e903fff0.jpg" alt="Image" width="50%" />
+</p>
