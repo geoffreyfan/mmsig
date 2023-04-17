@@ -12,6 +12,7 @@
 * [文档类贡献指南(建设中)](general/doc.md)
 * [Type Hints 贡献指南(建设中)](general/typehints.md)
 * [单元测试贡献指南(建设中)](general/dan-yuan-ce-shi-gong-xian-zhi-nan-jian-she-zhong.md)
+* [源码阅读及调试技巧(建设中)](general/sourcedebug.md)
 
 ## 算法库贡献者教程(建设中) <a href="#mm" id="mm"></a>
 
