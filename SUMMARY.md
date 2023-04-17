@@ -7,7 +7,7 @@
 * [环境配置(建设中)](general/env/README.md)
   * [Github 云环境(建设中)](general/env/github.md)
   * [Win10 环境配置(建设中)](general/env/win10.md)
-  * [Win11 环境配置](general/env/win11.md)
+  * [Win11 环境配置（建设中）](general/env/win11.md)
   * [Ubuntu 20.04 环境配置(建设中)](general/env/ubuntu20.md)
   * [masOS 环境配置 （建设中）](general/env/macos.md)
 * [熟悉 Git/GitHub(建设中)](general/shu-xi-gitgithub-jian-she-zhong.md)
