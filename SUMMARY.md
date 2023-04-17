@@ -10,10 +10,7 @@
   * [Ubuntu 20.04 环境配置](general/env/ubuntu20.md)
 * [文档类贡献指南](general/doc.md)
 
-## MMCV <a href="#04mmcv" id="04mmcv"></a>
+## 算法库贡献者教程 <a href="#mm" id="mm"></a>
 
-*
-
-## MMSegmentation <a href="#0xmmsegmentation" id="0xmmsegmentation"></a>
-
-*
+* [MMEngine](mm/mmengine.md)
+* [MMCV](mm/mmcv.md)
