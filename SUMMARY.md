@@ -13,6 +13,8 @@
 * [文档类贡献指南](01doc/doc.md)
 
 ## MMCV <a href="#04mmcv" id="04mmcv"></a>
+* [文档类贡献指南](01doc/doc.md)
 
 
 ## MMSegmentation <a href="#0xmmsegmentation" id="0xmmsegmentation"></a>
+* [文档类贡献指南](01doc/doc.md)
