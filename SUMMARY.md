@@ -10,6 +10,7 @@
   * [Ubuntu 20.04 环境配置(建设中)](general/env/ubuntu20.md)
 * [熟悉 Git/GitHub(建设中)](general/shu-xi-gitgithub-jian-she-zhong.md)
 * [文档类贡献指南(建设中)](general/doc.md)
+* [Type Hints 贡献指南(建设中)](general/typehints.md)
 
 ## 算法库贡献者教程(建设中) <a href="#mm" id="mm"></a>
 
