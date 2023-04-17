@@ -30,3 +30,4 @@
   * [贡献一个标准格式的数据集(建设中)](mm/mmsegmentation/standdata.md)
   * [贡献一个数据集加载方式(建设中)](mm/mmsegmentation/dataloader.md)
 * [MMYOLO（建设中）](mm/mmyolo-jian-she-zhong.md)
+* [MMOCR建设中](mm/mmocr-jian-she-zhong.md)
