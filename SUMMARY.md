@@ -14,8 +14,8 @@
 ## 算法库贡献者教程(建设中) <a href="#mm" id="mm"></a>
 
 * [MMEngine(建设中)](mm/mmengine.md)
-* [MMCV](mm/mmcv.md)
-* [MMSegmentation](mm/mmsegmentation.md)
-  * [贡献一个标准格式的数据集](mm/mmsegmentation/standdata.md)
-  * [贡献一个数据集加载方式](mm/mmsegmentation/dataloader.md)
+* [MMCV(建设中)](mm/mmcv.md)
+* [MMSegmentation(建设中)](mm/mmsegmentation.md)
+  * [贡献一个标准格式的数据集(建设中)](mm/mmsegmentation/standdata.md)
+  * [贡献一个数据集加载方式(建设中)](mm/mmsegmentation/dataloader.md)
 * [Playground(建设中)](mm/playground-jian-she-zhong.md)
