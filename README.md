@@ -1,4 +1,4 @@
-# OpenMMLab 贡献者教程
+# OpenMMLab 贡献者教程 (建设中)
 
 [https://openmmlab.gitbook.io/mmsig/](https://openmmlab.gitbook.io/mmsig/)
 
