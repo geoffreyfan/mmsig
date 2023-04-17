@@ -25,7 +25,7 @@
 * [MMPreTrain(建设中)](mm/mmpretrain/README.md)
   * [骨干网络贡献指南(建设中)](mm/mmpretrain/backbone.md)
   * [自监督算法贡献指南(建设中)](mm/mmpretrain/selfsupc.md)
-* [Page 1](mm/page-1.md)
+* [MMDetection(建设中)](mm/mmdetection-jian-she-zhong.md)
 * [MMSegmentation(建设中)](mm/mmsegmentation.md)
   * [贡献一个标准格式的数据集(建设中)](mm/mmsegmentation/standdata.md)
   * [贡献一个数据集加载方式(建设中)](mm/mmsegmentation/dataloader.md)
