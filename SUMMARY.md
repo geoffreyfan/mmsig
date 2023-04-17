@@ -16,8 +16,9 @@
 ## 算法库贡献者教程(建设中) <a href="#mm" id="mm"></a>
 
 * [MMEngine(建设中)](mm/mmengine.md)
-* [MMCV(建设中)](mm/mmcv/README.md)
+* [MMCV(建设中)](mm/mmcv.md)
   * [算子贡献指南(建设中)](mm/mmcv/suan-zi-gong-xian-zhi-nan-jian-she-zhong.md)
+* [Transform 数据增强贡献指南](mm/transform-shu-ju-zeng-qiang-gong-xian-zhi-nan.md)
 * [MMSegmentation(建设中)](mm/mmsegmentation.md)
   * [贡献一个标准格式的数据集(建设中)](mm/mmsegmentation/standdata.md)
   * [贡献一个数据集加载方式(建设中)](mm/mmsegmentation/dataloader.md)
