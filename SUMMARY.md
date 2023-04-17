@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OpenMMLab 贡献者教程](README.md)
+* [OpenMMLab 贡献者教程 (建设中)](README.md)
 
 ## 通用贡献者教程 <a href="#general" id="general"></a>
 
